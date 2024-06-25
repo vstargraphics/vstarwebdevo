@@ -1,0 +1,14 @@
+.ul:not(:has(input:not(:checked))) {
+    background: #99ff99;
+    color: #000;
+}
+
+:checked + label: {
+    font-style: italic;
+    text-decoration: line-through;
+} */
+
+ .website{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
